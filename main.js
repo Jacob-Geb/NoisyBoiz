@@ -1,5 +1,5 @@
 
-let size = 512;
+let size = 256;
 let scale = 4;//25
 let octaves = 3;
 let perst = 0.4; // 0-1 range
